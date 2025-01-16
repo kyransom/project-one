@@ -1,0 +1,6 @@
+<script>start("c:\\Users\\kyran\\Desktop\\Assets\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("about.jpg","about.jpg",0,35857,"35.0 kB",1736277774,"1/7/25, 12:22:54 PM");</script>
+<script>addRow("discord.png","discord.png",0,37943,"37.1 kB",1736277774,"1/7/25, 12:22:54 PM");</script>
+<script>addRow("FES.svg","FES.svg",0,11635,"11.4 kB",1736277774,"1/7/25, 12:22:54 PM");</script>
+<script>addRow("laptop.png","laptop.png",0,91594,"89.4 kB",1736277774,"1/7/25, 12:22:54 PM");</script>
