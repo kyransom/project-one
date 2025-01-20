@@ -17,7 +17,7 @@ nav {
 
 header {
   background-color: #eadcff;
-  height: calc(100vh - 70px);
+  min-height: calc(100vh - 70px);
   padding: 24px;
   display: flex;
   align-items: center;
@@ -191,7 +191,6 @@ flex-direction: column;
 }
 
 h1 {
-  margin-top: 320px;
   text-align: center;
   font-size: 60px;
 }
